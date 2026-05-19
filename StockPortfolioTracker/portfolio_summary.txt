@@ -1,0 +1,8 @@
+Portfolio Summary
+--------------------------------------------------
+AAPL     Quantity: 3    Price: $180.00   Value: $540.00
+GOOGL    Quantity: 2    Price: $140.00   Value: $280.00
+MSFT     Quantity: 5    Price: $330.00   Value: $1650.00
+AMZN     Quantity: 2    Price: $145.00   Value: $290.00
+--------------------------------------------------
+Total Investment Value: $2760.00

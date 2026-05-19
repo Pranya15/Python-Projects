@@ -1,0 +1,9 @@
+Contact the team at support@example.com or sales@example.org.
+You can also reach admin@example.com for admin issues.
+
+Repeated emails should only appear once:
+support@example.com
+
+These should not match:
+name[at]example.com
+just-text-without-email
